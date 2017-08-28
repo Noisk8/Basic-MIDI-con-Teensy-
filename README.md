@@ -26,4 +26,6 @@ Protoboard
 
 Cable USB A/B
 
+## Protoboard
 
+![V.01](https://github.com/Noisk8/Basic-MIDI-con-Teensy-/blob/master/MIDI-Teensy_bb.png) 
