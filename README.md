@@ -16,7 +16,7 @@ Teensy Loader [https://www.pjrc.com/teensy/loader.html]
 
 ## Hardware
 
-Teensy 3.2 [https://www.pjrc.com/teensy]
+Teensy 3.2 [https://www.pjrc.com/teensy/index.html]
 
 8 Potenciometros de 100 k 
 
