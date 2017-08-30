@@ -28,17 +28,6 @@ void loop() {
     usbMIDI.sendControlChange(1, analogRead(3) / 8, 4);
    delay(5);
     
-    usbMIDI.sendControlChange(1, analogRead(4) / 8, 5);
-   delay(5);
-
-    usbMIDI.sendControlChange(1, analogRead(5) / 8, 6);
-   delay(5);
-
- usbMIDI.sendControlChange(1, analogRead(6) / 8, 7);
-   delay(5);
-
-    usbMIDI.sendControlChange(1, analogRead(7) / 8, 8);
-   delay(5);
    
 }
 
