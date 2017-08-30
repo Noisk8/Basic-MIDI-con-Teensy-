@@ -71,15 +71,13 @@ Después de esto al abrir arduino en Herramientas\Placa\Teensy3.2
 
 
 
-
-
-
+Codigo 
 
 ## Hardware
 
 Teensy 3.2 [https://www.pjrc.com/teensy/index.html]
 
-8 Potenciometros de 100 k 
+4 Potenciometros de 100 k 
 
 Cables 
 
@@ -88,4 +86,11 @@ Protoboard
 Cable miniUSB A/B
 
 ## Protoboard
+
+![Proto](https://github.com/Noisk8/Basic-MIDI-con-Teensy-/blob/master/MIDI-T_bb.png)
+
+
+## Esquematico 
+
+![Esquema](https://github.com/Noisk8/Basic-MIDI-con-Teensy-/blob/master/MIDI-T_esquem%C3%A1tico2.png)
 
